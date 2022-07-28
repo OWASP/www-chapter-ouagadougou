@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Pegdwende Justin Kassoga](mailto:pegdwende.kassoga@owasp.org)
+* [Franck Aristide Ouedraogo](mailto:franck.ouedraogo@owasp.org)
